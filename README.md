@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakon&" alt="tanvirakon" /></p>
 
 <!-- 🟡 PACMAN SECTION -->
-<img src="https://raw.githubusercontent.com/tanvirakon/tanvirakon/output/pacman-contribution-graph.svg" width="400" alt="Pac-Man eating my commits" />
+<img src="https://raw.githubusercontent.com/tanvirakon/tanvirakon/output/pacman-contribution-graph.svg" width="800" alt="Pac-Man eating my commits" />
 
 
 
