@@ -28,8 +28,7 @@
 
 <!-- 🟡 PACMAN SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SVCSsoKU4m2k/giphy.gif" width="200" alt="Pacman" />
-  <br/>
-  <h3>Keep learning... or Pac-Man will eat your commits 👾</h3>
+  <img src="https://raw.githubusercontent.com/tanvirakon/tanvirakon/output/pacman-contribution-graph.svg" width="400" alt="Pac-Man eating my commits" />
 </div>
+
 
