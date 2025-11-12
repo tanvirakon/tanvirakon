@@ -25,3 +25,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirakon&show_icons=true&locale=en" alt="tanvirakon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakon&" alt="tanvirakon" /></p>
+
+<!-- 🟡 PACMAN SECTION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SVCSsoKU4m2k/giphy.gif" width="200" alt="Pacman" />
+  <br/>
+  <h3>Keep learning... or Pac-Man will eat your commits 👾</h3>
+</div>
+
