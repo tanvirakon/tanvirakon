@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirakon&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirakon" /> </p>
 
-- 💬 Ask me about **Friends, chess**
+- 💬 Ask me about **friends, how i met your mother, the office, chess**
 
-- 📫 How to reach me **akon.pt33@gmail.com**
+- 📫 email: **akon.pt33@gmail.com**
 
 - ⚡ Fun fact: **I failed in Co-ordinate Geometry and Ordinary Differential Equation**
 
+<!-- Connect with me: -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/tanvirakon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanvirakon" height="30" width="40" /></a>
@@ -17,17 +18,77 @@
 <a href="https://codeforces.com/profile/ln1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ln1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Tech Stack -->
+<h3 align="left">Tech Stack:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirakon&show_icons=true&locale=en&layout=compact" alt="tanvirakon" /></p>
+<table>
+<tr>
+<td width="30%" align="center"><b>Frontend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Backend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Mobile Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>AI/ML & Data Science</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Tools & Productivity</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="48" height="48"/>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirakon&show_icons=true&locale=en" alt="tanvirakon" /></p>
+<!-- GitHub Stats -->
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakon&" alt="tanvirakon" /></p>
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=tanvirakon&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=tanvirakon&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=tanvirakon" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirakon&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
 
 <!-- 🟡 PACMAN SECTION -->
 <img src="https://raw.githubusercontent.com/tanvirakon/tanvirakon/output/pacman-contribution-graph.svg" width="800" alt="Pac-Man eating my commits" />
 
-
-
+</div>
