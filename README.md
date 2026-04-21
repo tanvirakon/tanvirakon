@@ -12,58 +12,48 @@
 <!-- Connect with me: -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/tanvirakon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanvirakon" height="30" width="40" /></a>
-<a href="https://fb.com/tanvirakonruet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirakonruet" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvirak0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvirak0n" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ln1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ln1" height="30" width="40" /></a>
+<table>
+  <tr>
+    <td><a href="https://fb.com/tanvirakonruet" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirakonruet" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/tanvirak0n" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvirak0n" height="30" width="40" /></a></td>
+    <td><a href="https://codeforces.com/profile/ln1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ln1" height="30" width="40" /></a></td>
+    <td><a href="https://kaggle.com/tanvirakon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanvirakon" height="30" width="40" /></a></td>
+    <td><a href="https://leetcode.com/u/tanvirak0n/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanvirakon" height="30" width="40" /></a></td>
+    
+  </tr>
+</table>
 </p>
 
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack:</h3>
 
-<table>
-<tr>
-<td width="30%" align="center"><b>Frontend Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Backend Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48" height="48"/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Database</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Mobile Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" width="48" height="48"/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>AI/ML & Data Science</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="48" height="48"/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Tools & Productivity</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" alt="Photoshop" width="48" height="48"/>
-</td>
-</tr>
+<table align="left">
+  <tr>
+    <td align="center" valign="top">
+      <b>Frontend</b><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,js" />
+    </td>
+    <td align="center" valign="top">
+      <b>Backend</b><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,cpp" />
+    </td>
+    <td align="center" valign="top">
+      <b>Database</b><br />
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+    </td>
+    <td align="center" valign="top">
+      <b>Mobile</b><br />
+      <img src="https://skillicons.dev/icons?i=flutter" />
+    </td>
+    <td align="center" valign="top">
+      <b>AI/ML</b><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Tools</b><br />
+      <img src="https://skillicons.dev/icons?i=git,postman,photoshop" />
+    </td>
+  </tr>
 </table>
 
 <!-- GitHub Stats -->
